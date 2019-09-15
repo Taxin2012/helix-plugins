@@ -6,8 +6,8 @@
 ## Usage
 
 #### Commands
-### `/AddToxicGas` adds a toxic gas box from where you are standing to where you are looking (box min to max)
-### `/RemoveToxicGas` removes the toxic gas box you're closest to.
+##### `/AddToxicGas` adds a toxic gas box from where you are standing to where you are looking (box min to max)
+##### `/RemoveToxicGas` removes the toxic gas box you're closest to.
 
 #### Console Variables
-### `ix_toxicgas_observer` (`1|0`) toggles showing toxic gas boxes when in observer/noclip.
+##### `ix_toxicgas_observer` (`1|0`) toggles showing toxic gas boxes when in observer/noclip.
