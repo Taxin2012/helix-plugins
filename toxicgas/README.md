@@ -1,6 +1,8 @@
 # Toxic Gas
 ### Adds toxic gas and gasmask item.
 
+![](https://i.imgur.com/G9RUG3d.jpg)
+
 ### Models are from [HL2 RP Essential Faction Models](https://steamcommunity.com/sharedfiles/filedetails/?id=636614821) on the workshop.
 
 ## Usage
